@@ -17,7 +17,7 @@ Os seguintes repositórios são referenciados nos slides das aulas e apresentado
   
 - **Implementação do algoritmo Dijkstra**
 
-## Padrões de Software (Software Patterns)
+### Padrões de Software (Software Patterns)
 
 - **Iterator**
 
@@ -30,7 +30,7 @@ Os seguintes repositórios são referenciados nos slides das aulas e apresentado
 - **Memento**
   
 - **Observer**
-- 
+  
 - **MVP**
 
-### Técnicas de Refatoring
+### Técnicas de Refactoring
