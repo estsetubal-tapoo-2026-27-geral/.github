@@ -6,8 +6,8 @@ Os repositórios estão organizados de acordo com a sequência das aulas.
 
 ### Tipos Abstratos de Dados
 
-- **[A1.1] Revisão dos tipos abstratos de dados e implementação de uma pilha com vetor** — [ADTStack_Template]
-- **[A1.2] Implementação de uma pilha com uma lista simplesmente ligada** — [ADTStack_Template]
+- **[A1.1] Revisão dos tipos abstratos de dados e implementação de uma pilha com vetor** — [ADTStack_parte 1](https://github.com/estsetubal-tapoo-2026-27-geral/ADT_Stack_Parte1)
+- **[A1.2] Implementação de uma pilha com uma lista simplesmente ligada** — [ADTStack_parte 2](https://github.com/estsetubal-tapoo-2026-27-geral/ADT_Stack_Parte2)
 
 ### Árvores e recursividade
 
