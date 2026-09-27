@@ -11,9 +11,9 @@ Os repositórios estão organizados de acordo com a sequência das aulas.
 
 ### Árvores e recursividade
 
-- **[A2.1] Introdução às árvores** — [ADTTree_Template-parte1](https://github.com/estsetubal-tapoo-2026-27-geral/ADT_Tree_parte1)
-- **[A2.2] Implementação do TAD Árvore** — [ADTTree_Template](https://github.com/estsetubal-tapoo-2026-27-geral/ADT_Tree_parte2)
-- **[A2.3] Recursividade** — [Trees_Trainning_Template]
+- **[A2.1] Introdução às árvores** — [ADT_Tree-parte1](https://github.com/estsetubal-tapoo-2026-27-geral/ADT_Tree_parte1)
+- **[A2.2] Implementação do TAD Árvore** — [ADT_Tree_parte2](https://github.com/estsetubal-tapoo-2026-27-geral/ADT_Tree_parte2)
+- **[A2.3] Recursividade** — [ADT_Tree_parte3](https://github.com/estsetubal-tapoo-2026-27-geral/ADT_Tree_parte3)
 - **[A2.4] Árvores binárias de pesquisa e implementação do TAD Map** — 
 ### Grafos
 
