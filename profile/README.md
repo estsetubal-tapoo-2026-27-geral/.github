@@ -14,10 +14,10 @@ Os repositórios estão organizados de acordo com a sequência das aulas.
 - **[A2.1] Introdução às árvores** — [ADT_Tree-parte1](https://github.com/estsetubal-tapoo-2026-27-geral/ADT_Tree_parte1)
 - **[A2.2] Implementação do TAD Árvore** — [ADT_Tree_parte2](https://github.com/estsetubal-tapoo-2026-27-geral/ADT_Tree_parte2)
 - **[A2.3] Recursividade** — [ADT_Tree_parte3](https://github.com/estsetubal-tapoo-2026-27-geral/ADT_Tree_parte3)
-- **[A2.4] Árvores binárias de pesquisa e implementação do TAD Map** — 
+- **[A2.4] Árvores binárias de pesquisa e implementação do TAD Map** — [BinarySearchTree](https://github.com/estsetubal-tapoo-2026-27-geral/BinarySearchTree)
 ### Grafos
 
-- **[A3.1] Introdução aos grafos**
+- **[A3.1] Introdução aos grafos** - 
 - **[A3.2] Visualização de grafos** — [SmartGraph]
 - **[A3.3] Algoritmos em grafos e cálculo do caminho mais curto**
 
