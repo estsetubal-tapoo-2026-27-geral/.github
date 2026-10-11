@@ -17,9 +17,10 @@ Os repositórios estão organizados de acordo com a sequência das aulas.
 - **[A2.4] Árvores binárias de pesquisa e implementação do TAD Map** — [BinarySearchTree](https://github.com/estsetubal-tapoo-2026-27-geral/BinarySearchTree)
 ### Grafos
 
-- **[A3.1] Introdução aos grafos** - 
-- **[A3.2] Visualização de grafos** — [SmartGraph]
-- **[A3.3] Algoritmos em grafos e cálculo do caminho mais curto**
+- **[A3.1] Introdução aos grafos** - [https://github.com/estsetubal-tapoo-2026-27-geral/ADTGraph_parte1]
+- **[A3.2] Visualização de grafos** —[https://github.com/estsetubal-tapoo-2026-27-geral/ADTGraph_parte2]
+- **[A3.3] Algoritmos em grafos para percorrer grafos**- [https://github.com/estsetubal-tapoo-2026-27-geral/ADTGraph_parte3]
+- **[A3.4] Estruturas de dados para implementar grafos**- [https://github.com/estsetubal-tapoo-2026-27-geral/ADTGraph_parte4]
 
 ### Padrões de desenho
 
