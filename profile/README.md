@@ -24,9 +24,9 @@ Os repositórios estão organizados de acordo com a sequência das aulas.
 
 ### Padrões de desenho
 
-- **[A4.1] Iterator**
-- **[A4.2] Strategy**
-- **[A4.3] Factory**
+- **[A4.1] Iterator** - [https://github.com/estsetubal-tapoo-2026-27-geral/Iterator_TemplateA4.1]
+- **[A4.2] Strategy** - [https://github.com/estsetubal-tapoo-2026-27-geral/Strategy_Template_A4.2]
+- **[A4.3] Factory** - [https://github.com/estsetubal-tapoo-2026-27-geral/Factories_TemplateA4.3]
 - **[A4.4] Command**
 - **[A4.5] Memento**
 - **[A4.6] Observer**
